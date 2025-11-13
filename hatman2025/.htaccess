@@ -1,8 +1,0 @@
-# Redirect from hatman2010.org/hatman2025 to Vercel
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^hatman2010\.org$ [NC]
-RewriteRule ^hatman2025/?$ https://hospitalitymasterclass.vercel.app/ [R=301,L]
-
-# Alternative method (if above doesn't work)
-Redirect 301 /hatman2025 https://hospitalitymasterclass.vercel.app/
-
