@@ -18,7 +18,7 @@
 const CONFIG = {
     eventDate: new Date('2025-11-25T09:00:00'),
     paymentLinks: {
-        physical: 'https://paystack.com/pay/physical-ticket-link', // Replace with physical ticket payment link
+        physical: 'https://paystack.shop/pay/hatman2025', // Physical ticket payment link
         virtual: 'https://paystack.com/pay/virtual-ticket-link'    // Replace with virtual ticket payment link
     },
     earlyBirdDiscount: 0.05,
