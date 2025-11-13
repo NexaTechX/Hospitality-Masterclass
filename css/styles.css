@@ -483,9 +483,6 @@ a {
     flex-wrap: wrap;
     margin-bottom: 2rem;
     padding: 3rem 2rem;
-    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
-    border-radius: 20px;
-    box-shadow: var(--shadow-xl);
 }
 
 .supporter-logo-top {
@@ -1130,10 +1127,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--white);
-    border-radius: 20px;
     padding: 2rem;
-    box-shadow: var(--shadow-xl);
 }
 
 .hatman-logo-large img {
